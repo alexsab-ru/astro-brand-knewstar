@@ -39,6 +39,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://alexsab-ru.github.io',
-	base: '/'
+	// site: 'https://alexsab-ru.github.io',
+	// base: '/'
 });
