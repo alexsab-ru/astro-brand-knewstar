@@ -54,6 +54,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://knewstar.alexsab.ru',
+	site: 'https://knewstar.dev.alexsab.ru',
 	base: "/"
 });
